@@ -53,6 +53,8 @@
 
 
 <!-- <p align="center"><img src="/assets/line.gif"></p> -->
+
+<!--
 <hr>
 
 ### 📈 &nbsp;Statistics
@@ -62,7 +64,7 @@
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kariemoorman&theme=github_dark&layout=compact" width='65%'/>
 </p>
 
-<!-- <p align="center"><img src="/assets/line.gif"></p> 
+ <p align="center"><img src="/assets/line.gif"></p> 
 <hr>
 
 ### 📍 &nbsp;Pinned Repositories
