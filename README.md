@@ -55,5 +55,18 @@
 <!-- <p align="center"><img src="/assets/line.gif"></p> -->
 <hr>
 
+### 📈 &nbsp;Statistics
 
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kariemoorman&theme=algolia&layout=compact"/>
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kariemoorman&theme=github_dark&layout=compact" />
+</p>
 
+<!-- <p align="center"><img src="/assets/line.gif"></p> -->
+<hr>
+
+### 📍 &nbsp;Pinned Repositories
+<p>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=kariemoorman&repo=iat-weat-wefat&show_icons=true&theme=github_dark" />&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=kariemoorman&repo=didactic-diy&show_icons=true&theme=github_dark" />
+</p>
