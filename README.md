@@ -57,7 +57,7 @@
 
 ### 📈 &nbsp;Statistics
 
-<p align="center">
+<p >
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kariemoorman&theme=algolia&layout=compact"/>
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kariemoorman&theme=github_dark&layout=compact" />
 </p>
