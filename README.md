@@ -51,10 +51,12 @@
 ![Nginx](https://img.shields.io/badge/-Nginx-05122A?&logo=Nginx)&nbsp;
 ![Git](https://img.shields.io/badge/-git-05122A?style=flat&logo=git)&nbsp;
 
+<b>Certifications:</b>
 <p>
 <a href='https://www.isc2.org/Certifications/CC' target="_blank"><img src='https://cycubix.com/wp-content/uploads/2023/08/ISC2_CC_RGB__mark.jpeg' width='90'></a>   
 <a href='https://www.comptia.org/certifications/security' target="_blank"><img src='https://www.ciat.edu/wp-content/uploads/2020/12/comptia-sec-certification.png' width='100'></a> 
 </p>
+
 <!-- <p align="center"><img src="/assets/line.gif"></p> -->
 
 <!--
