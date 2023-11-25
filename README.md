@@ -59,22 +59,23 @@
 
 <!-- <p align="center"><img src="/assets/line.gif"></p> -->
 
-<!--
+
 <hr>
 
 ### 📈 &nbsp;Statistics
 
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kariemoorman&theme=algolia&layout=compact" width='30%'/>  
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kariemoorman&theme=github_dark&layout=compact" width='65%'/>
-</p>
+<div align="center">
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kariemoorman&theme=algolia&layout=compact" />  &nbsp;&nbsp;
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kariemoorman&show_icons=true&theme=radical" /> &nbsp;&nbsp; </p>
+<p></p><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kariemoorman&theme=github_dark&layout=compact" width='90%' /></p>
+</div>
 
  <p align="center"><img src="/assets/line.gif"></p> 
 <hr>
 
 ### 📍 &nbsp;Pinned Repositories
-<p>
+<p align='center'>
 <a href="https://github.com/kariemoorman/iat-weat-wefat" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kariemoorman&repo=iat-weat-wefat&show_icons=true&theme=github_dark" /></a>&nbsp;&nbsp;
 <a href="https://github.com/kariemoorman/didactic-diy" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kariemoorman&repo=didactic-diy&show_icons=true&theme=github_dark" /></a>
 </p>
--->
+
