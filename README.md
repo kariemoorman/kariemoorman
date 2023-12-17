@@ -73,9 +73,10 @@
 <!-- <p align="center"><img src="/assets/line.gif"></p> -->
 <hr>
 
+<!--
 ### 📍 &nbsp;Pinned Repositories
 <p align='center'>
 <a href="https://github.com/kariemoorman/iat-weat-wefat" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kariemoorman&repo=iat-weat-wefat&show_icons=true&theme=github_dark" /></a>&nbsp;&nbsp;
 <a href="https://github.com/kariemoorman/didactic-diy" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kariemoorman&repo=didactic-diy&show_icons=true&theme=github_dark" /></a>
 </p>
-
+-->
