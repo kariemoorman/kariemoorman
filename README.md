@@ -1,5 +1,5 @@
 
-<img src='https://www.techexplorist.com/wp-content/uploads/2017/06/AI.jpg' width=100%; height=300;\>
+<!-- <img src='https://www.techexplorist.com/wp-content/uploads/2017/06/AI.jpg' width=100%; height=300;\> -->
 
 
 <!-- <p align="center"><img src="/assets/line.gif"></p> -->
