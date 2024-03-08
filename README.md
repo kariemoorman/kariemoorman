@@ -53,7 +53,7 @@
 
 <b>Certifications:</b>
 <p>
-<a href='https://www.isc2.org/Certifications/CC' target="_blank"><img src='https://cycubix.com/wp-content/uploads/2023/08/ISC2_CC_RGB__mark.jpeg' width='90'></a>   
+<!-- <a href='https://www.isc2.org/Certifications/CC' target="_blank"><img src='https://cycubix.com/wp-content/uploads/2023/08/ISC2_CC_RGB__mark.jpeg' width='90'></a>    -->
 <a href='https://www.comptia.org/certifications/security' target="_blank"><img src='https://www.ciat.edu/wp-content/uploads/2020/12/comptia-sec-certification.png' width='100'></a> 
 </p>
 
@@ -67,7 +67,7 @@
 <div align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kariemoorman&theme=algolia&layout=compact" />  &nbsp;&nbsp;
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kariemoorman&show_icons=true&theme=radical" /> &nbsp;&nbsp; </p>
-<p></p><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kariemoorman&theme=github_dark&layout=compact" width='90%' /></p>
+<!-- <p></p><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kariemoorman&theme=github_dark&layout=compact" width='90%' /></p> -->
 </div>
 
 <!-- <p align="center"><img src="/assets/line.gif"></p> -->
