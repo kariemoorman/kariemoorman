@@ -46,6 +46,7 @@
 
 <b>DevOps:</b>
 ![AWS](https://img.shields.io/badge/-AWS-ff9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)&nbsp;
+![GCP](https://img.shields.io/badge/GCP-blue)&nbsp;
 ![Terraform](https://img.shields.io/badge/-terraform-7B42BC.svg?style=flat-square&logo=terraform&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&style=flat-square&logoColor=white)&nbsp;
 ![Nginx](https://img.shields.io/badge/-Nginx-05122A?&logo=Nginx)&nbsp;
