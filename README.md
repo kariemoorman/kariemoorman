@@ -11,7 +11,7 @@
 - DevOps, InfoSec, & Cybersecurity
 
 <!-- <p align="center"><img src="/assets/line.gif"></p> -->
-<hr>
+<!-- <hr>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -22,11 +22,11 @@
 <b>IDEs:</b>
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-white?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
-![Sublime Text](https://img.shields.io/badge/Sublime%20Text-%23575757.svg?logo=sublime-text&logoColor=important)&nbsp;
+![Sublime Text](https://img.shields.io/badge/Sublime%20Text-%23575757.svg?logo=sublime-text&logoColor=important)&nbsp; -->
 <!-- 
 ![Flask](https://img.shields.io/badge/-Flask-0d7963?style=flat&logo=flask&logoColor=white)&nbsp;
 ![Pytorch](https://img.shields.io/badge/-Pytorch-05122A?style=flat&logo=pytorch)&nbsp; -->
-
+<!-- 
 <b>Programming Languages:</b>
 ![Python](https://img.shields.io/badge/-Python-0078D6?style=flat-square&logo=python&logoColor=yellow)&nbsp;
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=fff)&nbsp;
@@ -52,10 +52,10 @@
 ![Snyk](https://img.shields.io/badge/Snyk-4C4A73?logo=snyk&logoColor=fff)&nbsp;
 
 <b>Certifications:</b>
-<p>
+<p> -->
 <!-- <a href='https://www.isc2.org/Certifications/CC' target="_blank"><img src='https://cycubix.com/wp-content/uploads/2023/08/ISC2_CC_RGB__mark.jpeg' width='90'></a>    -->
-<a href='https://www.comptia.org/certifications/security' target="_blank"><img src='https://down-th.img.susercontent.com/file/d0393410ccee7421e77b614a07c69d45' width='100' height='100'></a> 
-</p>
+<!-- <a href='https://www.comptia.org/certifications/security' target="_blank"><img src='https://down-th.img.susercontent.com/file/d0393410ccee7421e77b614a07c69d45' width='100' height='100'></a> 
+</p> -->
 
 <!-- <p align="center"><img src="/assets/line.gif"></p> -->
 
