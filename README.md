@@ -65,7 +65,7 @@
 ### 📈 &nbsp;Statistics
 
 <div align="center">
-<p float='left'><img align="center" src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=kariemoorman&theme=radical&layout=compact&langs_count=8&hide=jupyter%20notebook" width='35%;'/>  &nbsp;&nbsp;
+<p float='left'><img align="center" src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=kariemoorman&theme=radical&layout=compact&langs_count=8&hide=jupyter%20notebook&count_weight=.5&size_weight=.5" width='35%;'/>  &nbsp;&nbsp;
 <img align="center" src="https://github-readme-stats-steel-omega.vercel.app/api?username=kariemoorman&show_icons=true&theme=radical&custom_title=Github%20Statistics&include_all_commits=false&number_format=long&line_height=31"  width='45%;'/> &nbsp;&nbsp; </p>
   
 <!-- <p><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kariemoorman&theme=github_dark&layout=compact" width='90%' /></p> -->
