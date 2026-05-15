@@ -65,7 +65,7 @@
 
 #### Guidebooks:
 <a href="https://github.com/kariemoorman/devsecops-playbooks/tree/main/artifact-management" target="_blank"><b>Artifact Management</b></a> - Utilize GitLab as a free, scalable package & container registry (self-hosted & SaaS)  
-<a href="https://github.com/kariemoorman/devsecops-playbooks/tree/main/secrets-management" target="_blank"><b>Secrets Management</b></a> - Implement secrets management into any development workflow (local, self-hosted, & SaaS)
+<a href="https://github.com/kariemoorman/devsecops-playbooks/tree/main/secrets-management" target="_blank"><b>Secrets Management</b></a> - Implement secrets management in any development workflow (local, self-hosted, & SaaS)
 
 #### AIML Software:
 <a href="https://github.com/kariemoorman/tiktok-analyzer" target="_blank"><b>Tiktok Analyzer</b></a> - TikTok video scraping and multimodal content analysis tool  
