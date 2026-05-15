@@ -5,7 +5,7 @@
 <!-- <p align="center"><img src="/assets/line.gif"></p> -->
 <hr>
 
-<h3>🧠 Interests</h3>
+<h3>Interests</h3>
 
 - Data Engineering, Science & Analytics
 - DevOps, InfoSec & Cybersecurity
@@ -59,10 +59,43 @@
 
 <!-- <p align="center"><img src="/assets/line.gif"></p> -->
 
+<hr>
+
+<h3>Projects</h3>
+
+#### Guidebooks:
+<a href="https://github.com/kariemoorman/devsecops-playbooks/tree/main/artifact-management" target="_blank"><b>Artifact Management</b></a> - Utilize GitLab as a free, scalable package & container registry (self-hosted & SaaS)  
+<a href="https://github.com/kariemoorman/devsecops-playbooks/tree/main/secrets-management" target="_blank"><b>Secrets Management</b></a> - Implement secrets management into any development workflow (local, self-hosted, & SaaS)
+
+#### AIML Software:
+<a href="https://github.com/kariemoorman/tiktok-analyzer" target="_blank"><b>Tiktok Analyzer</b></a> - TikTok video scraping and multimodal content analysis tool  
+<a href="https://github.com/kariemoorman/reddit-recon" target="_blank"><b>Reddit Recon</b></a> - Reddit data-mining, text and user analysis tool  
+<a href="https://github.com/kariemoorman/imagextract" target="_blank"><b>ImagExtract</b></a> - MacOS command-line application to extract information from images using Apple Vision & CoreML APIs  
+<a href="https://github.com/kariemoorman/ghostbit" target="_blank"><b>GH0STB1T</b></a> - Multi-format audio & image steganography toolkit, with LLM integration  
+<a href="https://github.com/kariemoorman/redamon" target="_blank"><b>RedAmon</b></a> - Agentic LLM red team framework that automates offensive security operations  
+<a href="https://github.com/kariemoorman/cyd-wifi-sniffer" target="_blank"><b>CYD Wifi Sniffer</b></a> - WiFi packet sniffer and network traffic classifier for the ESP32-3248S035 (CYD) board
+
+
+#### Developer Tools:
+<a href="https://github.com/kariemoorman/containeraudit" target="_blank"><b>ContainerAudit</b></a> - Container security auditing toolkit, with Trivy and Snyk CVE scanning integration  
+<a href="https://github.com/kariemoorman/github-reusable-workflows" target="_blank"><b>Github Reusable Workflows</b></a> - Github Actions reusable workflows (e.g., security scans, PR review, package build/test/release)  
+<a href="https://github.com/kariemoorman/vscode-guard" target="_blank"><b>VSCode Guard</b></a> - Detect, block, remove, and lock unwanted VS Code/Codium extensions  
+<a href="https://github.com/kariemoorman/npm-malware-scanner" target="_blank"><b>NPM Malware Scanner</b></a> - Detect and mitigate `npm` supply chain attacks in CI pipeline  
+<a href="https://github.com/kariemoorman/homograph_detect" target="_blank"><b>Homograph Detect</b></a> - Detect and mitigate homograph attacks in terminal output for `curl`  
+<a href="https://github.com/kariemoorman/electron-detect" target="_blank"><b>Electron Detect</b></a> - Detect and surface versioning of MacOS apps built on Electron (Chromium + NodeJS)  
+<a href="https://github.com/kariemoorman/ghidra_scripts" target="_blank"><b>Ghidra Scripts</b></a> - Collection of scripts for Ghidra  
+
+
+#### Educational:
+<a href="https://github.com/kariemoorman/didactic-diy" target="_blank"><b>Didactic DIY</b></a> - Collection of data engineering, science & analytics PoCs, for practice and utility  
+<a href="https://github.com/kariemoorman/label-accuracy" target="_blank"><b>Label Accuracy</b></a> - Logistic regression pipeline that predicts whether a candidate label is correct, partially correct, or incorrect for a given text input  
+<a href="https://github.com/kariemoorman/ip-subnet-calculator" target="_blank"><b>IP Subnet Calculator</b></a> - IP Subnet Calculator returns network information for IPv4 and IPv6 addresses  
+<a href="https://github.com/kariemoorman/iat-weat-wefat" target="_blank"><b>iat-weat-wefat</b></a> - Replication of code from Caliskan et. al (2017) on human-like bias in large-scale language corpora. Comparison of IAT and WEAT/WEFAT across various topics and human languages using transformer models (2018).  
+
 
 <hr>
 
-### 📈 &nbsp;Statistics
+<h3>Statistics</h3>
 
 <div align="center">
 <p float='left'><img align="center" src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=kariemoorman&theme=radical&layout=compact&langs_count=10&hide=jupyter%20notebook&count_weight=.5&size_weight=.5" width='35%;'/>  &nbsp;&nbsp;
