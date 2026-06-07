@@ -87,6 +87,7 @@
 
 
 #### Educational:
+<a href="https://github.com/kariemoorman/morse-code-keyboard" target="_blank"><b>Morse Code Keyboard</b></a> - MacOS input method that converts keystrokes to morse code (ITU-R M.1677-1)  
 <a href="https://github.com/kariemoorman/didactic-diy" target="_blank"><b>Didactic DIY</b></a> - Collection of data engineering, science & analytics PoCs, for practice and utility  
 <a href="https://github.com/kariemoorman/label-accuracy" target="_blank"><b>Label Accuracy</b></a> - Logistic regression pipeline that predicts whether a candidate label is correct, partially correct, or incorrect for a given text input  
 <a href="https://github.com/kariemoorman/ip-subnet-calculator" target="_blank"><b>IP Subnet Calculator</b></a> - IP Subnet Calculator returns network information for IPv4 and IPv6 addresses  
