@@ -73,7 +73,8 @@
 <a href="https://github.com/kariemoorman/imagextract" target="_blank"><b>ImagExtract</b></a> - MacOS command-line application to extract information from images using Apple Vision & CoreML APIs  
 <a href="https://github.com/kariemoorman/ghostbit" target="_blank"><b>GH0STB1T</b></a> - Multi-format audio & image steganography toolkit, with LLM integration  
 <a href="https://github.com/kariemoorman/redamon" target="_blank"><b>RedAmon</b></a> - Agentic LLM red team framework that automates offensive security operations  
-<a href="https://github.com/kariemoorman/cyd-wifi-sniffer" target="_blank"><b>CYD Wifi Sniffer</b></a> - WiFi packet sniffer and network traffic classifier for the ESP32-3248S035 (CYD) board
+<a href="https://github.com/kariemoorman/cyd-wifi-sniffer" target="_blank"><b>CYD Wifi Sniffer</b></a> - WiFi packet sniffer and network traffic classifier for the ESP32-3248S035 (CYD) board  
+<a href="https://github.com/kariemoorman/archivyst" target="_blank"><b>Archivyst</b></a> - Vectorless, reasoning-based RAG for Obsidian vaults
 
 
 #### Developer Tools:
